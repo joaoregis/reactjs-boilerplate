@@ -35,7 +35,7 @@ Other modules that may interest you
  
 ## History
  
-Version 1.0 (2019-03-15) - adding Devise and core Rails functionality
+Version 1.0 (2019-03-15) - first of all
  
 ## Credits
  
