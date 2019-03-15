@@ -39,7 +39,7 @@ Version 1.0 (2019-03-15) - adding Devise and core Rails functionality
  
 ## Credits
  
-Developer - Joao Regies (@joaoregis)
+Developer - Joao Regis (@joaoregis)
  
 ## License
  
