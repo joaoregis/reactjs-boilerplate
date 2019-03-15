@@ -1,4 +1,4 @@
-# QuickMarks
+# Introduction
  
 A simple boilerplate for React.JS in ECMAScript 6 for projects with Materialize, jQuery, AxiosJS, Redux and other utilities packages.
 
